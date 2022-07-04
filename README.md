@@ -1,0 +1,1 @@
+Billing System is a desktop base application for storing customer records managing inventory and storig bill records,Developed in Java using NetBeans IDE and Mysql database.
